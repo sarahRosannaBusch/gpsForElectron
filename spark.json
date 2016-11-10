@@ -2,6 +2,6 @@
   "name": "gps",
   "author": "sarah rosanna busch",
   "license": "MIT",
-  "version": "0.0.10",
+  "version": "0.1.10",
   "description": "MikroElektronika GPS parser for Nano Hornet module"
 }
